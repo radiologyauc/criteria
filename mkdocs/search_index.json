@@ -1,0 +1,104 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome\n\n\nWe are a qualified Provider-Led Entity\u201d (qPLE) approved to provide appropriate\nuse criteria (AUC) under the Medicare Appropriate Use Criteria program for\nadvanced diagnostic imaging.\n\n\nOur website will detail our efforts in bringing high-quality evidence-based\ncriteria for healthcare providers, researchers, and companies to use.\n\n\nClincal Areas Covered\n\n\nCMS has designated eight priority clinical areas, based on the\nsignificance and the high prevalence of certain\ndiseases in the Medicare population.  \n\n\nOur goal is to provide the most relevant criteria for these clinical areas\n\n\n\n\nCoronary artery disease (suspected or diagnosed)\n\n\nSuspected pulmonary embolism\n\n\nHeadache (traumatic and non-traumatic)\n\n\nHip pain\n\n\nLow back pain\n\n\nShoulder pain (including suspected rotator cuff injury)\n\n\nLung cancer (primary or metastatic, suspected or diagnosed)\n\n\nCervical or neck pain\n\n\n\n\nLicense\n\n\nThis work is\nlicensed under a \nCreative Commons Attribution\n4.0 International License\n.", 
+            "title": "Welcome"
+        }, 
+        {
+            "location": "/#welcome", 
+            "text": "We are a qualified Provider-Led Entity\u201d (qPLE) approved to provide appropriate\nuse criteria (AUC) under the Medicare Appropriate Use Criteria program for\nadvanced diagnostic imaging.  Our website will detail our efforts in bringing high-quality evidence-based\ncriteria for healthcare providers, researchers, and companies to use.", 
+            "title": "Welcome"
+        }, 
+        {
+            "location": "/#clincal-areas-covered", 
+            "text": "CMS has designated eight priority clinical areas, based on the\nsignificance and the high prevalence of certain\ndiseases in the Medicare population.    Our goal is to provide the most relevant criteria for these clinical areas   Coronary artery disease (suspected or diagnosed)  Suspected pulmonary embolism  Headache (traumatic and non-traumatic)  Hip pain  Low back pain  Shoulder pain (including suspected rotator cuff injury)  Lung cancer (primary or metastatic, suspected or diagnosed)  Cervical or neck pain", 
+            "title": "Clincal Areas Covered"
+        }, 
+        {
+            "location": "/#license", 
+            "text": "This work is\nlicensed under a  Creative Commons Attribution\n4.0 International License .", 
+            "title": "License"
+        }, 
+        {
+            "location": "/usage/", 
+            "text": "Usage\n\n\nThe criteria are stored in a human readable format and a computer friendly\nformat.\n\n\nFeel free to download either or both formats to use.\n\n\nVersion Control\n\n\nAll criteria will be stored in a public repository using version control.\nProposed updates will be requested, and acceptance will be based on subcommittee\napproval.\n\n\nProposed update -\n Subcommitte Review -\n Public Repository Updated", 
+            "title": "Usage"
+        }, 
+        {
+            "location": "/usage/#usage", 
+            "text": "The criteria are stored in a human readable format and a computer friendly\nformat.  Feel free to download either or both formats to use.", 
+            "title": "Usage"
+        }, 
+        {
+            "location": "/usage/#version-control", 
+            "text": "All criteria will be stored in a public repository using version control.\nProposed updates will be requested, and acceptance will be based on subcommittee\napproval.  Proposed update -  Subcommitte Review -  Public Repository Updated", 
+            "title": "Version Control"
+        }, 
+        {
+            "location": "/criteria/", 
+            "text": "Criteria\n\n\nCoronary artery disease\n\n\nSuspected pulmonary embolism\n\n\nHeadache\n\n\nHip pain\n\n\nLow back pain\n\n\nShoulder pain\n\n\nLung cancer\n\n\nCervical or neck pain", 
+            "title": "Criteria"
+        }, 
+        {
+            "location": "/criteria/#criteria", 
+            "text": "", 
+            "title": "Criteria"
+        }, 
+        {
+            "location": "/criteria/#coronary-artery-disease", 
+            "text": "", 
+            "title": "Coronary artery disease"
+        }, 
+        {
+            "location": "/criteria/#suspected-pulmonary-embolism", 
+            "text": "", 
+            "title": "Suspected pulmonary embolism"
+        }, 
+        {
+            "location": "/criteria/#headache", 
+            "text": "", 
+            "title": "Headache"
+        }, 
+        {
+            "location": "/criteria/#hip-pain", 
+            "text": "", 
+            "title": "Hip pain"
+        }, 
+        {
+            "location": "/criteria/#low-back-pain", 
+            "text": "", 
+            "title": "Low back pain"
+        }, 
+        {
+            "location": "/criteria/#shoulder-pain", 
+            "text": "", 
+            "title": "Shoulder pain"
+        }, 
+        {
+            "location": "/criteria/#lung-cancer", 
+            "text": "", 
+            "title": "Lung cancer"
+        }, 
+        {
+            "location": "/criteria/#cervical-or-neck-pain", 
+            "text": "", 
+            "title": "Cervical or neck pain"
+        }, 
+        {
+            "location": "/team/", 
+            "text": "Team\n\n\nContact us", 
+            "title": "Team"
+        }, 
+        {
+            "location": "/team/#team", 
+            "text": "", 
+            "title": "Team"
+        }, 
+        {
+            "location": "/team/#contact-us", 
+            "text": "", 
+            "title": "Contact us"
+        }
+    ]
+}
